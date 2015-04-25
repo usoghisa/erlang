@@ -1,5 +1,7 @@
 erlang
 ======
+upisa01
+
 % READ ME instruction to run 
 % to compile 	 > c(controllerActor). c(converterActor). c(displayActor). 
 % start process1 > TemperConvActID 	= spawn(fun converterActor:temperatureConverter/0).
